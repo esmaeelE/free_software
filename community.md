@@ -9,7 +9,7 @@
 * Make money by introduce a TV-Box solution.
 * Re-launch LUG in Iran provinces specially run Installation sessions.
 * Spread Sharing culture by donation device for other peoples.
-* 
+* better Persian support in softwares.
 
 
 ## 
