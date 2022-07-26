@@ -1,6 +1,7 @@
 ## write 
 
 * add jalali calandar to glibc
+* tractor: idea, simple obtain bridge, alternative solution.
 * 
 
 ## maintanace
