@@ -9,3 +9,6 @@
       
 * archive tutorials 
   
+* Unix philosophy
+
+برنامه‌هایی بنویسید که ...!
