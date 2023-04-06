@@ -15,3 +15,4 @@
 * Make imporovment on Persian support.
 * write an article to introduce simple application for android
 * an article to introduce alternative website: youtube, twitter, etc.
+* At tour on Debian repositories and introduce some good applicaton.
