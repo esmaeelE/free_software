@@ -1,35 +1,25 @@
-# Action Items
+# Action Items — Writing
 
-## Video Downloader
-
-- [ ] Set up yt-dlp workflow for playlist downloads
-
-```bash
-torify yt-dlp -f 22 https://www.youtube.com/playlist?list=PLFOYXCPEqdNUU55Xvgst8wGTWnz_sd-cj
-```
-
-- [ ] Grab playlists from: YouTube, Aparat, GoToClass, other services
-- [ ] Document supported sites and common options
-
-## Archives
-
-- [ ] Archive tutorials (local mirror or Archive.org)
-- [ ] Decide on storage: local NAS, cloud, or hybrid
-
-## Writing
+## Debian Repositories Tour
 
 - [ ] Article: Tour of Debian repositories (گشتی در مخازن دبیان)
   - Walk through sections: main, contrib, non-free
   - Highlight useful but lesser-known packages
+
+## GNU Class Notes
+
 - [ ] GNU class notes in fluent Persian (جزوهٔ کلاس گنو به فارسی سلیس)
   - Target: new GNU/Linux users
   - Cover: shell basics, file permissions, package management
+
+## Unix Philosophy
+
 - [ ] Content about Unix philosophy
   - "Write programs that do one thing well" — explain with examples
 
 ## Books
 
 - [ ] Translate *Unix: A History and a Memoir* into Persian
-  - See [book.md](book.md) for details
+  - See [Books — Translations](./books-translations.md) for details
 - [ ] Write Persian book: computing the GNU/Linux way
-  - See [book.md](book.md) for outline
+  - See [Books — Original Works](./books-original.md) for outline

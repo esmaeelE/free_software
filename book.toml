@@ -1,0 +1,14 @@
+[book]
+title = "Free Software Initiatives"
+authors = ["free_software community"]
+description = "Tasks, ideas, and plans for promoting free/open-source software in Persian-speaking communities"
+src = "src"
+language = "en"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+default-theme = "light"
+site-url = "/"
